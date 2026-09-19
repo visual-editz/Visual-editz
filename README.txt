@@ -22,5 +22,5 @@ Upload all 3 files to a GitHub repository. Then:
 Settings -> Pages -> Deploy from branch -> main -> /root -> Save.
 
 CONTACT
-Current email in index.html: sksedits264@gmail.com
+Current email in index.html: visualeditz45gmail.com
 Current Instagram link: https://instagram.com/visual_editz
