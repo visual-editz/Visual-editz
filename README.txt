@@ -10,8 +10,8 @@ IMPORTANT EDITS
 1. Replace the demo portfolio links (#) in index.html with your real Instagram/YouTube/video links.
 2. Change the email if needed.
 3. Change the WhatsApp number:
-   https://wa.me/919999999999
-   Replace 919999999999 with your WhatsApp number including country code.
+   https://wa.me/919834276690
+   Replace 919834276690 with your WhatsApp number including country code.
 4. Change the Instagram URL:
    https://instagram.com/visual_editz
 5. Update pricing in the Pricing section.
